@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="TESTPROXY">
+    <Basepaths>/v1/testproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1540183544104</CreatedAt>
+    <CreatedBy>pm00507324@techmahindra.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>TESTPROXY</DisplayName>
+    <LastModifiedAt>1540183544104</LastModifiedAt>
+    <LastModifiedBy>pm00507324@techmahindra.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:c205a96530fdd3e0cc3492d108a1b5d71223f3bac60696e4dbb7966035272749c74f1b48d78bb273ee97414df994d86636e268383151ec3c87c28c7ca8d52eaf</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>TargetEndpoint-1</TargetEndpoint>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
